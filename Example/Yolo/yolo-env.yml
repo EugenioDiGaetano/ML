@@ -1,0 +1,8 @@
+name: yolo
+channels:
+  - conda-forge
+dependencies:
+  - pytorch
+  - ultralytics
+  - torchvision
+prefix: /home/gabriele/Software/miniforge3/envs/yolo
