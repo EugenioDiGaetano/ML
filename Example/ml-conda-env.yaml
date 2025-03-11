@@ -1,0 +1,12 @@
+name: ml
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - seaborn
+  - keras-tuner
+  - tensorflow-cpu
+prefix: /home/gabriele/Software/miniforge3/envs/ml
